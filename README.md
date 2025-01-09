@@ -47,3 +47,6 @@
     - Header
     - Footer
     - PopupWithForm
+
+# Ссылка на второе заданик в draw.io
+https://drive.google.com/file/d/1yAr4usvYuua2MbcFTpRtZb4_pDBKYUS9/view?usp=sharing
