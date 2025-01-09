@@ -30,16 +30,17 @@
 
 Компоненты:
 - Профиль пользователя
-    - User profile
+    - *User profile*
     - EditProfilePopup
     - EditAvatarPopup
 - Страница логина и регистрации
     - InfoTooltip
-    - AuthMain
+    - *AuthMain*
     - Login
     - Register
 - Список мест
     - AddPlacePopup
+    - *PlacesGrid*
     - ImagePopup
     - Card
 - Общая библиотека
